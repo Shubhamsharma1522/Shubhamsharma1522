@@ -1,6 +1,6 @@
 # Hi! My name is Shubham Sharma
 
-🌍  I am a Full Stack Developer based in India...
+🌍  A Passionate Full Stack Developer From India...
 <br/>
 
 ### Skills
